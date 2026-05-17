@@ -24,7 +24,7 @@ function Contact() {
 
           <div className="contact-item">
             <FaMapMarkerAlt />
-            <span>Kasaragod, Kerala, India</span>
+            <span>Bangalore,Karnataka,India</span>
           </div>
 
           {/* Social Icons */}

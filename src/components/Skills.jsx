@@ -24,7 +24,7 @@ function Skills() {
 
       {/* Moving container */}
       <div className="slider">
-        <div className="slide-track">   {/* ✅ ADD THIS */}
+        <div className="slide-track">   {/*  ADD THIS */}
 
           {[...skills, ...skills].map((skill, index) => (
             <div key={index} className="skill-card">

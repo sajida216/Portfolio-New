@@ -50,9 +50,9 @@
   animation: scroll 5s linear infinite;
 }
 @media(max-width:768px){
-  .slide-trac{
+  .slide-track{
     display: flex;
-     animation: scroll 2s linear infinite;
+     animation: scroll 1s linear infinite;
   } 
 }
 
